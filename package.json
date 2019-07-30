@@ -1,0 +1,15 @@
+{
+  "name": "inflation-scraper",
+  "version": "0.0.1",
+  "description": "Get CPI inflation from BLS",
+  "main": "index.js",
+  "repository": "https://github.com/HarryStevens/inflation-scraper",
+  "author": "Harry Stevens",
+  "license": "MIT",
+  "dependencies": {
+    "jquery-scrape": "^0.0.8",
+    "leftpad": "^0.0.1",
+    "prompt": "^1.0.0",
+    "underscore": "^1.9.1"
+  }
+}
